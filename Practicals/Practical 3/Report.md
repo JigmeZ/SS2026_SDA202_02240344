@@ -1,7 +1,5 @@
 ## Practical 3 Reflection
 
-Note: I referred to my diagrams from Practical 2 when preparing this reflection.
-
 ### Class Diagram Reflection
 
 When I worked on the class diagram, I understood it as the blueprint of the system. It does not show real data running live, but it shows the main structure: what parts exist, what each part is responsible for, and how those parts are connected. For me, it works like planning a building before construction, because I can see names, properties, and functions in one place and understand who can communicate with whom.
